@@ -30,11 +30,6 @@
 /**/*.out
 /**/*.xml
 /**/*.gz
-/**/*.jpeg
-/**/*.png
-/**/*.doc
-/**/*.docx
-/**/*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
