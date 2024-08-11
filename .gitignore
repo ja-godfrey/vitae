@@ -1,6 +1,7 @@
 # data folder
 /aull/data/
 /dissertation/data
+/retooled/
 
 # Data
 /**/*.csv
